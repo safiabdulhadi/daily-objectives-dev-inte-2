@@ -16,3 +16,4 @@
 * [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
 * [x] Découverte de VS Code
 * [x] Comprendre le web (Openclassrooms)
+.
