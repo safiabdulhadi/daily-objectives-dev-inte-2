@@ -4,7 +4,7 @@
 
 ### Javascript
 
-* [ ] Comprendre le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
+* [x] Comprendre le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
   * [ ] Faire l’exercice et analyser ses erreurs
 * [ ] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
 * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://fr.javascript.info/operators)
